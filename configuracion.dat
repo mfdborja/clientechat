@@ -1,0 +1,5 @@
+localhost
+65000
+
+#La primera línea es la ruta para acceder al servidor.
+#La segunda línea indica el puerto al que debe conectar.
